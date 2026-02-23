@@ -75,7 +75,7 @@ portfolio/
 ## 🔐 Admin Side
 | Upload Projects Page | Upload Certificate Page | Messages Page |
 |--------------|--------------|--------------|
-| <img width="2560" height="1440" alt="upload Project" src="https://github.com/user-attachments/assets/3aa2e8e1-df54-4b33-9c0c-95b6c99c14cd" / | <img width="2560" height="1440" alt="upload Project" src="https://github.com/user-attachments/assets/1df25111-75ee-4b06-b88d-313ef2aec319" /> | <img width="2560" height="1440" alt="Messeges" src="https://github.com/user-attachments/assets/3f940d17-2b6f-416f-82a3-f9eda37c5b64" /> |
+| <img width="2560" height="1440" alt="upload Project" src="https://github.com/user-attachments/assets/3fa5530d-7d11-452c-8309-6c0ba2750bc6" /> | <img width="2560" height="1440" alt="Upload Certi" src="https://github.com/user-attachments/assets/a01a39c2-c129-40a2-a4ed-de3d95a2f61e" /> | <img width="2560" height="1440" alt="Messeges" src="https://github.com/user-attachments/assets/3f940d17-2b6f-416f-82a3-f9eda37c5b64" /> |
 
 ---
 

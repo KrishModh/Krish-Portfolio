@@ -62,22 +62,20 @@ portfolio/
 
 | Home Page | About Page |
 |-----------|---------------|
-|<img width="2560" height="1440" alt="Screenshot (454)" src="https://github.com/user-attachments/assets/6a541c82-f105-4c0d-8039-4b123b3340bb" /> | <img width="2560" height="1440" alt="Screenshot (455)" src="https://github.com/user-attachments/assets/31bbb9a3-6aa4-4b21-b7ce-500fb7ed9eca" /> |
+|<img width="2560" height="1440" alt="Home dark" src="https://github.com/user-attachments/assets/468ccade-a629-4e70-aa16-cfdaf153bd95" /> | <img width="2560" height="1440" alt="About" src="https://github.com/user-attachments/assets/9a4c5764-4b2b-48f8-b89c-1f7dc308998b" /> |
 
 | Certificates | Projects Page |
 |--------------|--------------|
-| <img width="2560" height="1440" alt="Screenshot (456)" src="https://github.com/user-attachments/assets/1a882b7d-5919-4883-a5ab-0577239f493b" /> | <img width="2560" height="1440" alt="Screenshot (457)" src="https://github.com/user-attachments/assets/bc02af46-3565-4ab1-9082-d188e577b8f8" /> |
+| <img width="2560" height="1440" alt="Certi" src="https://github.com/user-attachments/assets/d479d508-e7e3-484d-87cf-87ba9ed6f90f" /> | <img width="2560" height="1440" alt="Projects" src="https://github.com/user-attachments/assets/0574c423-a58f-43a5-b141-2cd8c11ac68e" /> |
 
 | Contact Page |
 |--------------|
-| <img width="2560" height="1440" alt="Screenshot (458)" src="https://github.com/user-attachments/assets/4709b52f-6c3b-4ccb-96de-a5cc57e71da7" /> |
+| <img width="2560" height="1440" alt="Contact" src="https://github.com/user-attachments/assets/b0f83a39-1cff-4336-87d9-ac4bc25fd2d6" /> |
 
 ## 🔐 Admin Side
 | Upload Projects Page | Upload Certificate Page | Messages Page |
 |--------------|--------------|--------------|
-| <img width="2560" height="1440" alt="Screenshot (460)" src="https://github.com/user-attachments/assets/0de1338d-e023-4228-85e6-d92e970b6989" /> | <img width="2560" height="1440" alt="Screenshot (461)" src="https://github.com/user-attachments/assets/205e146a-f586-4a3a-b6ac-592bbcc7d499" /> | <img width="2560" height="1440" alt="Screenshot (463)" src="https://github.com/user-attachments/assets/d58592e4-5d70-49d9-b1f4-782e889a0793" /> |
----
-
+| <img width="2560" height="1440" alt="upload Project" src="https://github.com/user-attachments/assets/3aa2e8e1-df54-4b33-9c0c-95b6c99c14cd" / | <img width="2560" height="1440" alt="Upload Certi" src="https://github.com/user-attachments/assets/cb19da57-ef53-47a5-bf09-505927d0a032" /> | <img width="2560" height="1440" alt="Messeges" src="https://github.com/user-attachments/assets/3f940d17-2b6f-416f-82a3-f9eda37c5b64" /> |
 
 ---
 

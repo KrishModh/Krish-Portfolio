@@ -56,19 +56,6 @@ portfolio/
 
 ---
 
-## 🔗 API Endpoints
-
-| Method | Endpoint | Description |
-|--------|----------|-------------|
-| GET | /api/projects | Fetch all portfolio projects |
-| POST | /api/admin/projects | Upload new project |
-| GET | /api/certificates | Fetch certificates |
-| POST | /api/admin/certificates | Upload certificate |
-| GET | /api/messages | Fetch messages |
-| POST | /contact | Submit portfolio message |
-
----
-
 ## 🖼 Screenshots
 
 ## 🧑‍💻 User Side
